@@ -1,0 +1,5 @@
+
+
+js代码规划：
+1、js的分层（功能）：jQuery（tool） 组件（ui） 应用（app）mvc（backboneJS）
+2、js的规划（管理）：避免全局变量和方法（命名空间、闭包、面向对象），模块化（se   aJS，requireJS）
